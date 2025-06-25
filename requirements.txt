@@ -1,1 +1,5 @@
-# Add dependencies here
+langchain
+langchain-community
+langchain-openai
+openai
+python-dotenv

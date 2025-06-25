@@ -1,1 +1,4 @@
-print("We are about to create our first AI agent!")
+from agents.task_agent import run_agent
+
+if __name__ == "__main__":
+    run_agent()
